@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm txello👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Middle+Python+developer;Middle+PHP+developer;And+just+good+person+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Middle+Python+developer;Middle+PHP+developer;QA+engineer;And+just+good+person+%3A%29)](https://git.io/typing-svg)
 
 #
 
