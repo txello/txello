@@ -4,6 +4,8 @@
 
 #
 
+[![wakatime](https://wakatime.com/badge/user/bda5abe9-11d1-42ce-9ef0-5728156978d9.svg)](https://wakatime.com/@bda5abe9-11d1-42ce-9ef0-5728156978d9)
+
 [![codewars](https://www.codewars.com/users/txello/badges/small)](https://www.codewars.com/users/txello)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txello&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
